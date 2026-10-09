@@ -24,11 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Christos Karapapas"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Athens/Greece"
   employer         : "Athena Research Center"
+  employer         : "University of Nicosia Athens"
+
   uri              : # URL
   email            : "ckarapapas@gmail.com" 
 
